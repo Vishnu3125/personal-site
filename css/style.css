@@ -1,0 +1,168 @@
+body {
+    background-color: #364f6b;
+    margin: 0px;
+    text-align: center;
+}
+
+div {
+    margin: 0px;
+}
+
+.h1-main {
+    /* position: relative; */
+    top: 100px;
+    margin-top: 150px;
+    font-family: 'Caveat', cursive;
+    margin-bottom: 0;
+    font-size: 180px;
+    color: #fc5185;
+}
+
+.h2-main {
+    font-size: 50px;
+    color: #3fc1c9;
+    font-weight: normal;
+    margin-top: 5px;
+    margin-bottom: 95px;
+}
+
+h2 {
+    font-family: 'Patrick Hand', cursive;
+    color: #fc5185;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+h3 {
+    font-family: 'Patrick Hand', cursive;
+    color: #fc5185;
+    font-size: 32px;
+}
+
+p {
+    font-family: 'Patrick Hand', cursive;
+    color: #364f6b;
+    line-height: 1.6;
+    font-size: 26px;
+}
+
+.btn{
+    background: #FC5185;
+    background-image: -webkit-linear-gradient(top, #FC5185, #E34977);
+    background-image: -moz-linear-gradient(top, #FC5185, #E34977);
+    background-image: -ms-linear-gradient(top, #FC5185, #E34977);
+    background-image: -o-linear-gradient(top, #FC5185, #E34977);
+    background-image: linear-gradient(to bottom, #FC5185, #E34977);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 350px;
+    color: #FFFFFF;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 23px;
+    font-weight: 500;
+    padding: 18px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center
+}
+.btn:hover {
+    background: #FF8AAF;
+    background-image: -webkit-linear-gradient(top, #FF8AAF, #ff709e);
+    background-image: -moz-linear-gradient(top, #FF8AAF, #ff709e);
+    background-image: -ms-linear-gradient(top, #FF8AAF, #ff709e);
+    background-image: -o-linear-gradient(top, #FF8AAF, #ff709e);
+    background-image: linear-gradient(to bottom, #FF8AAF, #ff709e);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 35px;
+    text-decoration: none;
+}
+
+.footer-link {
+    color: #364f6b;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 26px;
+    margin: 0 25px 0 25px;
+    text-decoration: none;
+}
+
+.main-container {
+    text-align: center;
+    position: relative;
+}
+
+.middle-container {
+    background-color: #f5f5f5;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.bottom-container {
+    background-color: #3fc1c9;
+    height: 100px;
+    margin-top: 30px;
+    padding-top: 20px;
+}
+
+.cloud1 {
+    position: relative;
+    top: 95px;
+    left: 270px;
+}
+
+.cloud2 {
+    position: absolute;
+}
+
+.skill-row {
+    width: 60%;
+    margin: 50px auto 180px auto;
+    text-align: left;
+}
+
+.java-img {
+    float: left;
+    margin-right: 70px;
+    margin-bottom: 20px;
+}
+
+.chilli-img {
+    float: right;
+    margin-left: 70px;
+}
+
+.dividers{
+    background-color: #f5f5f5;
+    border-style: dotted none none;
+    border-color: #364f6b;
+    border-width: 8px;
+    margin: 60px auto 120px auto;
+    height: 10px;
+    width: 5%;
+}
+
+.my-skill{
+    padding-bottom: 60px;
+}
+
+.intro{
+    width: 40%;
+    margin: auto;
+}
+
+/* 
+color scheme
+palette 1
+#e4f9f5
+#30e3ca
+#11999e
+#40514e 
+
+palette 2
+#364f6b
+#3fc1c9
+#f5f5f5
+#fc5185
+
+*/

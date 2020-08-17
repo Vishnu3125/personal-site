@@ -1,0 +1,40 @@
+body{
+    background-color: teal;
+    margin: 0px;
+}
+
+.main-container{
+    height: 400px;
+    width: 600px;
+    background-color: indigo;
+    position: relative;
+}
+
+.top-container{
+    height: 200px;
+    width: 200px;
+    background-color: gray;
+    position: absolute;
+    right: 0px;
+}
+
+.middle-container{
+    height: 200px;
+    width: 200px;
+    background-color: tomato;
+}
+
+.bottom-container{
+    height: 200px;
+    width: 200px;
+    background-color: yellowgreen;
+}
+
+/* .p_in_top-container{
+    margin: 0px;
+    display: inline-block;
+}
+
+.h1_in_top-container{
+    margin-top: 0px;
+} */
